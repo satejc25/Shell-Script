@@ -1,0 +1,7 @@
+Basics to learn shell script
+
+Variable
+Arguments
+Condiionals if else elif
+Loops: For While
+Functions
