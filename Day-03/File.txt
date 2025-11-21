@@ -1,0 +1,4 @@
+#Error Handling
+if then is used to handel errors in shell scripts.
+
+
